@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo7amedmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="mo7amedmostafa" /> </p>
 
-- 🌱 I’m currently learning **Windows_Server 2012/16/19 | Linux_Centos_Ubuntu**
-
-- 💬 Ask me about **AWS_EC2_RDS_S3 | Terraform | K8s**
-
 - 📫 How to reach me **mo7amed.m.osman@gmail.com**
+
+- 🌱 I’m currently learning,
+-  Windows_Server 2012/16/19.
+-  SQL_Server 2012/14/16/19.
+-  Linux_Centos_Ubuntu.
+-  Virualiztion_Proxmox_Hyperv_ESXI.
+-  Docker_K8s.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
