@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo7amedmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="mo7amedmostafa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo7amedmostafa" alt="mo7amedmostafa" /></a> </p>
-
 - 💬 Ask me about **AWS_EC2_RDS_S3 | Terraform | K8s**
 
 - 📫 How to reach me **mo7amed.m.osman@gmail.com**
