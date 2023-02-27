@@ -6,6 +6,7 @@
 - 📫 How to reach me **mo7amed.m.osman@gmail.com**
 
 - 🌱 I’m currently learning,
+-  AWS - EKS - EC2 - RDS - Terraform
 -  Windows_Server 2012/16/19.
 -  SQL_Server 2012/14/16/19.
 -  Linux_Centos_Ubuntu.
